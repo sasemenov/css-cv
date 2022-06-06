@@ -31,8 +31,8 @@ body {
      color: aqua;
  }
 
- a:visited{
-     color: red;
+a:visited{
+     color: blueviolet;
  }
 
 .avatar {
